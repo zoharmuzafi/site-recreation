@@ -17,6 +17,7 @@ Feel free to choose one of these example sites to replicate:
 * <a href="http://www.brewerydb.com" target="_blank">Brewery DB</a>
 * <a href="http://resourceguruapp.com" target="_blank">Resource Guru</a>
 * <a href="http://trekcxccup.com" target="_blank">Trek Cup</a>
+* <a href="https://medium.com" target="_blank">Medium</a>
 
 ## Submission
 
